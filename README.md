@@ -9,4 +9,14 @@ Skills: JAVA / JS / HTML / PY
 
 
 
-[![](https://visitcount.itsvg.in/api?id=TheIceNinja&icon=5&color=1)](https://visitcount.itsvg.in)## 🌐 Socials: # 📊 GitHub Stats: ![](https://github-readme-stats.vercel.app/api?username=TheIceNinja&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> ![](https://github-readme-streak-stats.herokuapp.com/?user=TheIceNinja&theme=dark&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheIceNinja&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ---
+
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/TheIceNinja) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TheIceNinja&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TheIceNinja&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheIceNinja&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=TheIceNinja&icon=5&color=1)](https://visitcount.itsvg.in)
+
