@@ -4,11 +4,6 @@
 - 🤖 I code Minecraft Plugins && Discord Bots.
 - 😊 I want to smile all my life so the way I do this is to code something.
 
-Skills: JAVA / JS / HTML / PY
-
-
-
-
 
 
 ## 🌐 Socials:
