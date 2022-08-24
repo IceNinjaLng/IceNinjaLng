@@ -1,6 +1,4 @@
 ### Hi there 👋, my name is TheIceNinja
-![](https://cdn.discordapp.com/attachments/964211203922591844/1012085337201332275/logo.png)
-
 - 🔯 I am a jewish who believes in the Creator of the world in God.
 - 📱 If you want to support, Discord: https://discord.gg/D6k8VJYpyQ.
 - 🤖 I code Minecraft Plugins && Discord Bots.
