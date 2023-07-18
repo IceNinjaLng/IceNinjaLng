@@ -1,7 +1,7 @@
 # Hi there 👋, my name is TheIceNinja
 - 📱 If you want to support, Discord: https://discord.gg/D6k8VJYpyQ.
-- 🤖 I code Minecraft Plugins && Discord Bots.
-- 👋 If u want to contact on discord: theiceninja
+- 🤖 I code minecraft plugins && discord bots.
+- 👋 If u want to contact me on discord: theiceninja
 
 
 ## 🌐 Socials:
