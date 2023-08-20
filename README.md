@@ -3,6 +3,8 @@
 - 🤖 I code minecraft plugins && discord bots.
 - 👋 If u want to contact me on discord: theiceninja
 
+  I don't post my private projects lol
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/D6k8VJYpyQ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCDnqgUONgjX5R_h3_Q31sEw) 
