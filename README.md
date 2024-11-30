@@ -1,6 +1,5 @@
 # Hi there 👋, my name is Sagi
-- 📱 If you want to support, Discord: https://discord.gg/D6k8VJYpyQ.
-- 🤖 I code minecraft plugins && discord bots.
+
 - 👋 If u want to contact me on discord: IceNinjaLng
 
   I don't post my private projects lol
